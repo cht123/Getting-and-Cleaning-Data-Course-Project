@@ -1,0 +1,3 @@
+Subject: integer - identifier for test subject
+activity_desc: Factor w/ 6 levels - indicates the activity the data was collected for
+Columns 3 - 68 - means of all columns containing mean() and std(), less meanFreq().  I assumed it should not be included
