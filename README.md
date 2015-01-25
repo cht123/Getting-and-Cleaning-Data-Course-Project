@@ -18,3 +18,4 @@ There are 7 key steps in the process.
 5. Add descriptive activity label names, using inner_join in dplyr 
 6. Restrict data columns to mean and std columns using a regular expression to search column names for mean() and std().  NOTE: meanFreq is intentionally dropped
 7. Create and export the tidy summarized data set 
+
